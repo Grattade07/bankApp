@@ -21,4 +21,8 @@ To install this project locally all you need to do is clone this repo:
 * Use 'git clone [url]' in your terminal/command prompt to download a clone of the repo and then the website is yours to explore
 
 ## How to use the app
+![image](https://user-images.githubusercontent.com/107367099/213813159-4b33d7e7-633c-4ab5-a2c7-c4759aa72856.png)
 
+The user can input a value into the "amount" input and then add or remove the value from their deposit using the "deposit" or "withdraw" buttons.
+
+The user can add a 5% interest to the balance using the corresponding button, or apply a 15% charge to the balance using its button.
