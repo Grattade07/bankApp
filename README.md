@@ -7,8 +7,8 @@ This project is a banking app created using React. It gives the user the ability
 
 Section | Link |
 --- | --- |
-How to install | [Link](https://github.com/Grattade07/bankApp/edit/main/README.md#install-the-project-locally)
-How to use | [Link](https://github.com/Grattade07/bankApp/edit/main/README.md#how-to-use-the-app)
+How to install | [Link](https://github.com/Grattade07/bankApp/blob/main/README.md#install-the-project-locally)
+How to use | [Link](https://github.com/Grattade07/bankApp/blob/main/README.md#how-to-use-the-appp)
 
 ## Install the project locally
 
